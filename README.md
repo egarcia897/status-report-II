@@ -1,7 +1,4 @@
-"""Author: Estela Garcia
-Date written: 2/20/2025
-Assignment : Project
-Short Description: Creating a tip calculator with 3 buttons, 3 labels and 2 images."""
+
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk #Import Image and ImageTk for handling image display in tkinter.
